@@ -14,6 +14,7 @@ public class Discotienda {
     Cancion cancion;
     
     public Discotienda() {
+        /*
         artista = new Artista("Holmes", EnumGenero.POP, EnumNacionalidad.LATINOAMERICA);
         
         disco = new Disco("Canciones del Alma.", "Canciones que llegan a el alma", "15000");
@@ -39,13 +40,14 @@ public class Discotienda {
             System.out.println("\n");
         }
         System.out.println("\n");
+        */
     }
     
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        Discotienda Discotienda = new Discotienda();
-    }
+    //public static void main(String[] args) {
+        //Discotienda Discotienda = new Discotienda();
+    //}
     
 }

@@ -3,7 +3,7 @@ package discotienda;
 
 /**
  *
- * @author Cuchurrumi
+ * @author Anggy Arguello - Holmes Ayala
  */
 public class Cancion {
     

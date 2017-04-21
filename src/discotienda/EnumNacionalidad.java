@@ -6,10 +6,11 @@ package discotienda;
  * @author Cuchurrumi
  */
 public enum EnumNacionalidad {
-    EEUU,
+    Seleccionar,
+    ASIA,
     COLOMBIA,
-    MEXICO,
-    LATINOAMERICA,
+    EEUU,
     EUROPA,
-    ASIA
+    LATINOAMERICA,
+    MEXICO
 }

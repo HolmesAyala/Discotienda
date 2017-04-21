@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author Cuchurrumi
+ * @author Anggy Arguello - Holmes Ayala
  */
 public class Artista {
     

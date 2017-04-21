@@ -6,15 +6,16 @@ package discotienda;
  * @author Cuchurrumi
  */
 public enum EnumGenero {
-    ROCK,
-    POP,
-    MERENGUE,
-    RANCHERA,
-    VALLENATO,
+    Seleccionar,
     BLUES,
-    TECNO,
     CUMBIA,
     JAZZ,
+    MERENGUE,
+    POP,
+    RANCHERA,
+    ROCK,
+    SALSA,
+    TECNO,
     URBANO,
-    SALSA
+    VALLENATO
 }
